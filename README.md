@@ -30,11 +30,11 @@ Hi, I'm **Twiddllo** — a developer focused on automation, bots, and backend to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twiddllo&show_icons=true&theme=shadow_green&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=twiddllo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twiddllo&layout=compact&theme=shadow_green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twiddllo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ## 🏆 GitHub Trophies
