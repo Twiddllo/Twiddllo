@@ -26,16 +26,20 @@ Hi, I'm **Twiddllo** — a developer focused on automation, bots, and backend to
 - GitHub
 - NPM
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twiddllo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Twiddllo&theme=shadow_green&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twiddllo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Twiddllo&theme=shadow_green" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twiddllo&theme=shadow_green&layout=compact" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Twiddllo&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
