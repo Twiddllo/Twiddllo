@@ -29,16 +29,9 @@ Hi, I'm **Twiddllo** — a developer focused on automation, bots, and backend to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Twiddllo&theme=shadow_green&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Twiddllo&theme=shadow_green" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twiddllo&theme=shadow_green&layout=compact" />
-</p>
 
 
 ## 🏆 GitHub Trophies
