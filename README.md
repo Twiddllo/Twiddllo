@@ -8,10 +8,7 @@ Hi, I'm **Twiddllo** — a developer focused on automation, bots, and backend to
 
 # 📬 Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Twiddllo)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Alireza.nekounam86@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/twiddllo)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/twiddllo.dev)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Twiddllo) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Alireza.nekounam86@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/twiddllo) [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/twiddllo.dev)  
 
 
 # 💻 Tech Stack:
