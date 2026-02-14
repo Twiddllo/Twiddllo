@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm **Twiddllo** — a developer focused on automation, bots, and backend tools.
+Hi, I'm **Twiddllo**. a developer focused on automation, bots, and backend tools.
 
 - 🤖 Build Discord & Telegram automation systems
 - ⚡ Turn ideas into working tools and real projects
